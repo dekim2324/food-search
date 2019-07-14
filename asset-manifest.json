@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/food-search/static/css/main.0ee06368.chunk.css",
+    "main.js": "/food-search/static/js/main.1e78c392.chunk.js",
+    "main.js.map": "/food-search/static/js/main.1e78c392.chunk.js.map",
+    "runtime~main.js": "/food-search/static/js/runtime~main.c5a2a9a6.js",
+    "runtime~main.js.map": "/food-search/static/js/runtime~main.c5a2a9a6.js.map",
+    "static/js/2.aa9b191f.chunk.js": "/food-search/static/js/2.aa9b191f.chunk.js",
+    "static/js/2.aa9b191f.chunk.js.map": "/food-search/static/js/2.aa9b191f.chunk.js.map",
+    "index.html": "/food-search/index.html",
+    "precache-manifest.25bd4c8597a98035552661eecc3283cd.js": "/food-search/precache-manifest.25bd4c8597a98035552661eecc3283cd.js",
+    "service-worker.js": "/food-search/service-worker.js",
+    "static/css/main.0ee06368.chunk.css.map": "/food-search/static/css/main.0ee06368.chunk.css.map"
+  }
+}
